@@ -1,7 +1,7 @@
 # Business problem framing for IT Architects
 
-**Published:** 2022-10-08
-**Medium:** [https://medium.com/@kyle-t-jones/business-problem-framing-for-it-architects-a152a393bb6d](https://medium.com/@kyle-t-jones/business-problem-framing-for-it-architects-a152a393bb6d)
+Published: 2022-10-08
+Medium: [https://medium.com/@kyle-t-jones/business-problem-framing-for-it-architects-a152a393bb6d](https://medium.com/@kyle-t-jones/business-problem-framing-for-it-architects-a152a393bb6d)
 
 ## About
 
